@@ -1,8 +1,6 @@
-![Banner](https://images.pexels.com/photos/36419010/pexels-photo-36419010.jpeg)
+![Banner](https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg)
 
-# Hi , I'm Roop Kaur
-
-<img src="images/banner.jpg" alt="Banner" width="100%">
+# Hi , I'm Roop Kaur    
 
 ## 👩 About Me
 
@@ -13,7 +11,7 @@ I have experience working with **JavaScript, HTML, CSS, and GitHub**, and I enjo
 ---
 
 ##  Skills
-    
+
 - JavaScript  
 - HTML  
 - CSS  
