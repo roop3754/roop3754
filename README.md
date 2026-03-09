@@ -39,6 +39,3 @@ I have experience working with **JavaScript, HTML, CSS, and GitHub**, and I enjo
 
 ---
 
-## 📫 Connect With Me
-
-GitHub: https://github.com/yourusername
