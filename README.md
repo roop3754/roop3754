@@ -1,8 +1,10 @@
-![Banner]https://images.unsplash.com/photo-1772289495964-2f1a4b39f461?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+![Banner](https://images.pexels.com/photos/36419010/pexels-photo-36419010.jpeg)
 
-# Hi, I'm Roop Kaur
+# Hi , I'm Roop Kaur
 
-##  About Me
+<img src="images/banner.jpg" alt="Banner" width="100%">
+
+## 👩 About Me
 
 I am currently a **Software Developer student at Manitoba Institute of Trades and Technology (MITT) in Winnipeg, Canada**. I graduated from **Ajanta School in 2024** and started my journey in software development. I am learning how to build websites and applications using modern technologies and tools.
 
@@ -10,17 +12,27 @@ I have experience working with **JavaScript, HTML, CSS, and GitHub**, and I enjo
 
 ---
 
-##  Statistics
-
--  **Education:** Software Developer Program – MITT  
--  **High School:** Ajanta School (Graduated 2024)  
--  **Technologies Learned:** JavaScript, HTML, CSS  
--  **Work Experience:** Team Member at Tim Hortons (Part Time)  
--  **Location:** Winnipeg, Canada  
+##  Skills
+    
+- JavaScript  
+- HTML  
+- CSS  
+- GitHub  
+- Basic Web Development  
 
 ---
 
-## Current Goals
+##  Statistics
+
+- 🎓 **Education:** Software Developer Program – MITT  
+- 🏫 **High School:** Ajanta School (Graduated 2024)  
+- 💻 **Technologies Learned:** JavaScript, HTML, CSS  
+- 👩‍💼 **Work Experience:** Team Member at Tim Hortons (Part Time)  
+- 📍 **Location:** Winnipeg, Canada  
+
+---
+
+## 📂 Current Goals
 
 - Improve my programming and problem-solving skills  
 - Build more software development projects  
@@ -29,6 +41,6 @@ I have experience working with **JavaScript, HTML, CSS, and GitHub**, and I enjo
 
 ---
 
-##  Connect With Me
+## 📫 Connect With Me
 
 GitHub: https://github.com/yourusername
